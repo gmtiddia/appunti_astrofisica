@@ -12,6 +12,7 @@ Non ho problemi a condividere qualcosa che possa dare una mano a qualcuno gratui
 Dato che questi appunti vi hanno dato modo di risparmiare qualche tempo per la preparazione dell'esame, chiedo a voi una frazione di questo tempo indietro: sareste così gentili da indicarmi gli errori che avete avuto modo di notare nel corso della preparazione all'esame? Potete indicarle inserendo una issue in questa repository (sotto vi spiego come fare), mi occuperò io di verificare e inserire le correzioni, per poi pubblicare una versione rivisitata degli appunti. Mi piace pensare che potremo lasciare un documento carino per immortalare uno dei corsi più interessanti del CdL sotto vari punti di vista.
 
 Vi ringrazio in anticipo per il vostro supporto,
+
 quello degli appunti di Astrofisica.
 
 ## Come contribuire
