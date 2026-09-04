@@ -18,7 +18,7 @@ quello degli appunti di Astrofisica.
 
 Per contribuire dovete:
 - avere un account GitHub (se non lo avete createlo, vi servirà)
-- sottomettere una issue [a questo link](https://github.com/TUTOR_USERNAME/NOME_REPO/issues/new)
+- sottomettere una issue [a questo link](https://github.com/gmtiddia/appunti_astrofisica/issues/new?template=template-per-indicare-una-correzione.md)
 
 Le issue contengono un titolo e una descrizione. Ho creato un template per facilitarvi la vita nell'indicarmi le informazioni necessarie per procedere con la correzione.
 
