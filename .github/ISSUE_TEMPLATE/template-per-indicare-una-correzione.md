@@ -2,9 +2,8 @@
 name: Template per indicare una correzione
 about: Descrivi brevemente l'oggetto dell'errore
 title: Un errore bestiale
-labels: ''
+labels: bug
 assignees: gmtiddia
-
 ---
 
 ### Descrizione dell'errore
